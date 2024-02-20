@@ -6,3 +6,8 @@
 ###### This easily also enables specificity when outlining ideas, processes and methodes.
 
 ![Image of Cybertruck](https://upload.wikimedia.org/wikipedia/commons/c/ce/Cybertruck-fremont-cropped.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
